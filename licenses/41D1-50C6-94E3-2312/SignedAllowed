@@ -1,0 +1,15 @@
+{
+ "license": {
+  "machine": "41D1-50C6-94E3-2312",
+  "modules": [
+   "base",
+   "copy",
+   "options"
+  ],
+  "issued": "2026-10-21",
+  "expires": "2027-04-30",
+  "label": "Server",
+  "v": 2
+ },
+ "sig": "cj/Uq4Xhl96XrEK9sJP+v6oTz+Mg7Vn+hAgw6zOIrclKnYZRH3E98Nl6IqJmObN9/FkSWDW3o1C72Sl2IxbWDw=="
+}
