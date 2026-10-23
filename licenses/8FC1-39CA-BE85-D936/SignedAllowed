@@ -5,12 +5,14 @@
    "backtest",
    "base",
    "copy",
-   "options"
+   "factory",
+   "options",
+   "threegate"
   ],
-  "issued": "2026-10-16",
-  "expires": "2027-04-16",
-  "label": "ec2-test",
+  "issued": "2026-10-23",
+  "expires": "2027-04-30",
+  "label": "Server",
   "v": 2
  },
- "sig": "Sb71o7ivdyfac+vGcAlKpeTcoR3c1/bsAb1W6HP95Yy3Z0CjTvMjrv5kg6+2ILuty7QYcIudgz+CnwiFKZgGBQ=="
+ "sig": "FyZ7JFDOauFEN/lZlqCYpvV4i/jJgfC7U525dLme/KUC+x8O5P4J2iJW9speNzoKKVwho0XEoR7G1srIUT3hCQ=="
 }
