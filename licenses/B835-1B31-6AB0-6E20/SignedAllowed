@@ -1,0 +1,18 @@
+{
+ "license": {
+  "machine": "B835-1B31-6AB0-6E20",
+  "modules": [
+   "backtest",
+   "base",
+   "copy",
+   "factory",
+   "options",
+   "threegate"
+  ],
+  "issued": "2026-10-27",
+  "expires": "2027-04-30",
+  "label": "Server",
+  "v": 2
+ },
+ "sig": "cEong5D2+tvyajXgW9XLCvYv7BR+DidXEOPUb7AzP5UCTdVFySHOnLCXcanF0UXU2FB7jQAmcvfmiVCq8dL3DQ=="
+}
