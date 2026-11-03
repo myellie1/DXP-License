@@ -1,0 +1,17 @@
+{
+ "license": {
+  "machine": "32ED-AB63-B532-30AC",
+  "modules": [
+   "backtest",
+   "base",
+   "copy",
+   "factory",
+   "options"
+  ],
+  "issued": "2026-11-03",
+  "expires": "2027-04-30",
+  "label": "Server",
+  "v": 2
+ },
+ "sig": "x65rLNU4r2F8a+PhF2pvXhCkjdhmer0w/IhwtOV0Xv43OjUDUEiOf3xu/fFsZHSnO5/GY0UpPzY6GWtfODZKCw=="
+}
