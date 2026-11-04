@@ -1,0 +1,14 @@
+{
+ "license": {
+  "machine": "22CA-5D06-A1E6-6669",
+  "modules": [
+   "backtest",
+   "workstation"
+  ],
+  "issued": "2026-11-04",
+  "expires": "2026-11-30",
+  "label": "Anshu Laptop",
+  "v": 2
+ },
+ "sig": "RliYGNeTpuwayTNqGUgdQ+HYhX3/naCXnmTQaneZUkSJqdKcMMjKDXSDQs7YOzt4L/wo5Oz/sISYIFrEcFQKDg=="
+}
