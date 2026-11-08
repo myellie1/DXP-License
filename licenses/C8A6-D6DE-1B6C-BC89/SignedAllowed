@@ -1,0 +1,18 @@
+{
+ "license": {
+  "machine": "C8A6-D6DE-1B6C-BC89",
+  "modules": [
+   "backtest",
+   "base",
+   "copy",
+   "factory",
+   "options",
+   "threegate"
+  ],
+  "issued": "2026-11-09",
+  "expires": "2027-04-30",
+  "label": "Server",
+  "v": 2
+ },
+ "sig": "sJWd1ABvxX4g612NJPCb7L29lOC7J2HT1NiiSLaxA90G9PNITp3aIU0gqiPORfMQekvehV0hZAoHUTkyLDrtBQ=="
+}
